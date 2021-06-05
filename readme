@@ -1,0 +1,7 @@
+Contents:
+
+allports.dat:    Contains the data on the BM, CI, and SUE portfolios.   This is a Gauss dataset.
+indivtaxall.g:   Runs the GMM estimation that matches means.
+indivoltaxal.g:  Runs the GMM estimation that matches means and volatilities.
+
+Instructions:    To use the programs, you will have to change the name of the data set at the top of each program to match the folder into which you have downloaded the data. You will also need a copy of Gauss.
